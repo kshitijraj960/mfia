@@ -31,7 +31,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "VIP MUSIC")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "UNK MUSIC")
 
 # Your User ID.
 OWNER_ID = list(
@@ -62,8 +62,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/rider_music_support")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/dosto_ki_m3hfil")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/UNK_NETWORK")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/UNK_SUPPORT")
 SUPPORT_HEHE = SUPPORT_GROUP
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
